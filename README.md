@@ -23,3 +23,6 @@ When the RFID door lock system is powered on, the servo motor moves the lock to 
 - **Jumper wires**
 - **Foamboard or suitable housing material**
 - **Iron stick or lock support**
+
+## Project Diagram
+![Project Diagram](project_bb.png)
